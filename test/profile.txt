@@ -3,3 +3,4 @@ MBTI: ESTJ
 성별: 남
 
 상대방 이름: 지민
+상대방 MBTI: ISTJ
