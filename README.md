@@ -238,6 +238,3 @@ python save_sample.py  # sample.json 생성
 
 ## 라이선스
 MIT License
-
-## 기여하기
-Pull Request를 환영합니다! 이슈나 개선사항이 있으면 GitHub Issues에 등록해주세요.
