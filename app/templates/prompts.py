@@ -51,7 +51,7 @@ PROMPT = """
         "user" : "...",
         "partener": "..."
       }},
-      "convalsational_tone": {{
+      "conversational_tone": {{
         "user" : "...",
         "partener": "..."
       }},
